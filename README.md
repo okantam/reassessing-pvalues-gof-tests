@@ -52,7 +52,6 @@ To assess whether traditional p-value reports from GoF tests can reliably guide 
 
 - `/code/`: R simulation scripts for GoF testing and power analysis  
 - `/figures/`: Generated histograms and power curve plots  
-- `/poster/`: Research poster for conference presentation  
 - `/report/`: Full dissertation PDF and supplementary files  
 
 
